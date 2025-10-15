@@ -29,12 +29,6 @@ Currently pursuing a **Bachelor in Applied Computer Science** (Software, Web, AI
 
 **Other**
 - Databases: Oracle, MSSQL, MySQL, PostgreSQL  
-- ERP: Dynamics NAV / 365 Business Central  
+- ERP: Dynamics NAV / 365, Business Central  
 - Data science: Pandas, scikit-learn, PyTorch  
-- Workflow automation: Mirth Connect, LangChain, n8n  
-  
-  
-## ⚙️ Interests
-
-Software development within the **Odoo ecosystem**, automation, and cloud-native architectures.  
-Continuous learner exploring **DevOps**, **AI tooling**, and **integrated ERP workflows**.
+- Workflow automation: LangChain, n8n  
