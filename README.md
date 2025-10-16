@@ -2,7 +2,7 @@
 
 🎯 **IT professional transitioning into software engineering**  
 📍 Halle, Belgium  
-📧 [kenny@kbx.dev](mailto:kenny@kbx.dev)  
+✉️ kenny (at) kbx (dot) dev  
 🌐 [kbx.dev](https://kbx.dev)
   
   
